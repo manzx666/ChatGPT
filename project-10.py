@@ -13,7 +13,7 @@ url = "https://simple-chatgpt-api.p.rapidapi.com/ask"
 
 headers = {
     "content-type": "application/json",
-    "X-RapidAPI-Key": "YOUR-API-KEY",
+    "X-RapidAPI-Key": "3215caf7c8msh13c041cef5ed357p197942jsn8f7d16ce75df",
     "X-RapidAPI-Host": "simple-chatgpt-api.p.rapidapi.com"
 }
 
